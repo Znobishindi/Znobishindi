@@ -27,3 +27,31 @@
 + pet-проект (до знакомства со Spring) ["Магазин спортивного питания"](https://github.com/Znobishindi/SportsNutritionStore)
 + pet-проект раскладывает изображение, полученное с сайта "NASA", на пиксели, форматирует и подменяет пиксели заданными символами. ["NASA"](https://github.com/Znobishindi/NasaHttp/tree/main)
 + Множество выполненных ДЗ в ходе обучения в Нетологии [тут](https://github.com/Znobishindi?tab=repositories).
+
+## Это мои первые достижения:
+<table>
+  <tr>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Osnovi_page-0001%20(1).jpg" width="438" height="308" alt="osnovi"></td>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Algo_page-0001.jpg" width="438" height="308" alt="algo"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Git_page-0001.jpg" width="438" height="308" alt="git"></td>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Core_page-0001.jpg" width="438" height="308" alt="core"></td>
+  </tr>
+ 
+  <tr>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Synchro_page-0001.jpg" width="438" height="308" alt="synchro"></td>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Patterns_page-0001.jpg" width="438" height="308" alt="patterns"> </td>
+  </tr>
+ 
+  <tr>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Web_page-0001.jpg" width="438" height="308" alt="web"></td>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/Spring_page-0001.jpg" width="438" height="308" alt="spring"></td>
+  </tr>
+  
+   <tr>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/DB_page-0001.jpg" width="438" height="308" alt="db"></td>
+    <td><img src="https://github.com/Znobishindi/Znobishindi/blob/sertificates/Sertificates%20jpg/certificate_page-0001.jpg" width="438" height="308" alt="certificate"> </td>
+  </tr>
+ 
+</table>
